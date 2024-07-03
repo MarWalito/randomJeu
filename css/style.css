@@ -395,23 +395,8 @@ td.editable:hover {
 
 
 
-@media screen and (max-width: 1536px) {
-    .field_main {
-        margin-left: 18%;
-    }
-}
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 500px) {
   .field_main {
-    margin-left: 0%;
-
-  }
-  .section_main {
-    flex-direction: column;
-  }
-  .list_customers ul {
-    text-align: center;
-  }
-  li.active{
-    background-size: 10px;
+    margin-left: 60%;
   }
 }
